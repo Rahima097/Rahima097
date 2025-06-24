@@ -1,6 +1,9 @@
 <!-- Banner Image -->
 <img src="Images/Rahima Khatun Banner.png" alt="Rahima Khatun Banner" width="100%" />
 
+# 🙋‍♀️ Rahima Khatun 
+💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
+
 # 💫 About Me:
 Hi! I'm **Rahima**, a full stack developer from **Khulna, Bangladesh**.  <br>I’m passionate about building responsive, user-friendly web applications.  <br>I focus on clean code, modern UI, and continuous learning.
 
