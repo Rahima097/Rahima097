@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="Images/Rahima Khatun Banner.png" alt="Rahima Khatun Banner" width="100%" />
 
-# 🙋‍♀️ Rahima Khatun 
+# 🙋‍♀️ Hi,I'm Rahima Khatun 
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
 # 💫 About Me:
