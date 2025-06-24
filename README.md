@@ -7,6 +7,11 @@
 # 💫 About Me:
 Hi! I'm **Rahima**, a full stack developer from **Khulna, Bangladesh**.  <br>I’m passionate about building responsive, user-friendly web applications.  <br>I focus on clean code, modern UI, and continuous learning.
 
+# 🔭 What I’m Working On
+
+- 🌐 Building a **Lost & Found web app** named `WhereIsIt`
+- 🚀 Exploring **Next.js** and **JWT Authentication**
+- 🎨 Improving frontend experience using **Tailwind CSS** and **DaisyUI**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahima-khatun28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahimaKhatun97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrahimakhatun281@gmail.com) 
