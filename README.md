@@ -5,8 +5,9 @@
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=🙋‍♀️+Hi%2C+I'm+Rahima+Khatun;💻+Full+Stack+Developer+%7C+MERN+Stack+%7C+Clean+Code+%26+Modern+UI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hi%2C+I%27m+Rahima+Khatun%3B%F0%9F%92%BB+Full+Stack+Developer+%7C+MERN+Stack+%7C+Clean+Code+%26+Modern+UI+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ## 💫 About Me
 
@@ -114,14 +115,12 @@ I'm always exploring and experimenting with modern tools and technologies to sta
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Rahima097&icon=0&color=0" alt="Profile Visitor Count" />
-  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Rahima097.Rahima097" alt="Visitor Count" />
 </p>
 
 
 ## 🔖 Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&lines=💬+“Coding+didn’t+just+change+my+career+—+it+changed+my+life.”;🚀+Every+day+I+learn,+build,+and+move+closer+to+my+dreams." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&lines=%F0%9F%92%AC+Coding+didn't+just+change+my+career+—+it+changed+my+life.;%F0%9F%9A%80+Every+day+I+learn%2C+build%2C+and+move+closer+to+my+dreams." alt="Rahima's Dev Quote" />
 </p>
