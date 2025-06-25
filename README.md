@@ -4,6 +4,7 @@
 # 🙋‍♀️ Hi,I'm Rahima Khatun 
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
+<>
 <p align="center" style="font-size: 48px; font-weight: bold; margin-bottom: 8px;">
   🙋‍♀️ Hi, I'm Rahima Khatun
 </p>
@@ -11,6 +12,7 @@
 <p align="center" style="font-size: 24px; color: #0366d6;">
   💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 </p>
+</>
 
 
 
