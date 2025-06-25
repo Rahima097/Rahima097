@@ -8,7 +8,7 @@
 
 Hi! I'm **Rahima Khatun**, a passionate self-taught web developer with an academic background in **Physics (M.Sc.)** — but my heart truly belongs to **coding**.
 
-Despite completing my master's in Physics, my curiosity for technology led me to dive deep into **WordPress development**, and now I’m focused on mastering **full-stack development with the MERN stack**. I'm currently completing a **comprehensive web development course**, sharpening both my theoretical understanding and hands-on skills.
+Despite completing my master's in Physics, my curiosity for technology led me to dive deep into **full-stack development with the MERN stack**. I'm currently completing a **comprehensive web development course**, sharpening both my theoretical understanding and hands-on skills.
 
 I believe in **learning every day**, and I'm genuinely excited by the process of solving problems through code. Whether it’s building a UI, managing backend logic, or connecting systems together — I **love every bit of it**.
 
@@ -48,7 +48,7 @@ I'm always exploring and experimenting with modern tools and technologies to sta
 - 📊 Strengthening knowledge in **data structures & algorithms**
 - 🔍 Building small experimental projects to apply everything hands-on
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahima-khatun28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahimaKhatun97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrahimakhatun281@gmail.com) 
 
 ## 💻 Tech Stack
@@ -97,9 +97,10 @@ I'm always exploring and experimenting with modern tools and technologies to sta
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahima097&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+## 💡 Quote of the Day:
 
 <p align="center">
-  <em>“Coding didn’t just change my career — it changed my life. Every day I learn, build, and move closer to my dreams.”</em>
+  <em>“Coding didn’t just change my career — it changed my life and give me happiness. Every day I learn, build, and move closer to my dreams.”</em>
   <br/>
   <span align="right" style="display: block; margin-top: 8px;">— Rahima Khatun</span>
 </p>
