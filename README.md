@@ -4,6 +4,10 @@
 # 🙋‍♀️ Hi,I'm Rahima Khatun 
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=🙋‍♀️+Hi%2C+I'm+Rahima+Khatun;💻+Full+Stack+Developer+%7C+MERN+Stack+%7C+Clean+Code+%26+Modern+UI+Enthusiast" alt="Typing SVG" />
+</p>
+
 ## 💫 About Me
 
 Hi! I'm **Rahima Khatun**, a passionate self-taught web developer with an academic background in **Physics (M.Sc.)** — but my heart truly belongs to **coding**.
@@ -97,20 +101,27 @@ I'm always exploring and experimenting with modern tools and technologies to sta
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahima097&theme=graywhite&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahima097&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahima097&theme=vue&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rahima097&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahima097&theme=graywhite&layout=compact&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahima097&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Rahima097&icon=0&color=2)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Rahima097&icon=0&color=0" alt="Profile Visitor Count" />
+  </a>
+</p>
+
 
 ## 🔖 Dev Quote
 
-> “Coding didn’t just change my career — it changed my life. Every day I learn, build, and move closer to my dreams.”
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&lines=💬+“Coding+didn’t+just+change+my+career+—+it+changed+my+life.”;🚀+Every+day+I+learn,+build,+and+move+closer+to+my+dreams." />
+</p>
