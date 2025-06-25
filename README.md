@@ -51,6 +51,20 @@ I'm always exploring and experimenting with modern tools and technologies to sta
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahima-khatun28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahimaKhatun97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrahimakhatun281@gmail.com) 
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahima-khatun28/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/RahimaKhatun97">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:mrahimakhatun281@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ## 💻 Tech Stack
 
 ### 🖥️ Frontend
