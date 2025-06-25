@@ -7,6 +7,37 @@
 # 💫 About Me:
 Hi! I'm **Rahima**, a full stack developer from **Khulna, Bangladesh**.  <br>I’m passionate about building responsive, user-friendly web applications.  <br>I focus on clean code, modern UI, and continuous learning.
 
+## 💫 About Me
+
+Hi! I'm **Rahima Khatun**, a passionate self-taught web developer with an academic background in **Physics (M.Sc.)** — but my heart truly belongs to **coding**.
+
+Despite completing my master's in Physics, my curiosity for technology led me to dive deep into **WordPress development**, and now I’m focused on mastering **full-stack development with the MERN stack**. I'm currently completing a **comprehensive web development course**, sharpening both my theoretical understanding and hands-on skills.
+
+I believe in **learning every day**, and I'm genuinely excited by the process of solving problems through code. Whether it’s building a UI, managing backend logic, or connecting systems together — I **love every bit of it**.
+
+---
+
+## 🧠 What Drives Me
+
+- 🚀 I’m driven by curiosity and creativity.
+- 🔍 I explore new technologies regularly.
+- 💪 I believe consistency beats perfection.
+- 🌱 I’m committed to lifelong learning.
+
+---
+
+## 🔭 Recent Projects
+
+### 🔹 [WhereIsIt](https://whereisit-lost-and-found-item.netlify.app/)
+A full-stack lost & found platform where users can report, search, and recover items. Built using **React, Tailwind CSS, Firebase Auth, Node.js, Express, and MongoDB** with JWT protection.
+
+### 🔹 [FindRoommate](https://find-roommate.netlify.app/)
+A room rental listing platform with an interest/like system and secure contact reveal feature. Built using **React 19, Firebase, Express.js, MongoDB**, and styled with **Tailwind CSS**.
+
+### 🔹 [Plumbio Fix](https://plumbio-fix.netlify.app/)
+A plumbing service website that allows users to book services, view details, and post reviews. Features **Firebase authentication**, dynamic routing, protected pages, and responsive design.
+
+
 # 🔭 What I’m Working On
 
 - 🌐 Building a **Lost & Found web app** named `WhereIsIt`
@@ -27,3 +58,7 @@ Hi! I'm **Rahima**, a full stack developer from **Khulna, Bangladesh**.  <br>I�
 [![](https://visitcount.itsvg.in/api?id=Rahima097&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🔖 Dev Quote
+
+> “Coding didn’t just change my career — it changed my life. Every day I learn, build, and move closer to my dreams.”
