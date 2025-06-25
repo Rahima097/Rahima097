@@ -4,9 +4,6 @@
 # 🙋‍♀️ Hi,I'm Rahima Khatun 
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
-# 💫 About Me:
-Hi! I'm **Rahima**, a full stack developer from **Khulna, Bangladesh**.  <br>I’m passionate about building responsive, user-friendly web applications.  <br>I focus on clean code, modern UI, and continuous learning.
-
 ## 💫 About Me
 
 Hi! I'm **Rahima Khatun**, a passionate self-taught web developer with an academic background in **Physics (M.Sc.)** — but my heart truly belongs to **coding**.
@@ -37,12 +34,19 @@ A room rental listing platform with an interest/like system and secure contact r
 ### 🔹 [Plumbio Fix](https://plumbio-fix.netlify.app/)
 A plumbing service website that allows users to book services, view details, and post reviews. Features **Firebase authentication**, dynamic routing, protected pages, and responsive design.
 
+---
 
-# 🔭 What I’m Working On
+## 🌱 What I'm Learning Now
 
-- 🌐 Building a **Lost & Found web app** named `WhereIsIt`
-- 🚀 Exploring **Next.js** and **JWT Authentication**
-- 🎨 Improving frontend experience using **Tailwind CSS** and **DaisyUI**
+I'm always exploring and experimenting with modern tools and technologies to stay ahead in my development journey:
+
+- 🧩 Diving into **Next.js** for server-side rendering and full-stack capabilities
+- ⚙️ Learning different types of **frontend and backend frameworks**
+- 🧠 Exploring **AI tools** that enhance productivity and automation
+- 🎨 Improving UI/UX knowledge with modern design principles
+- 🌐 Understanding **API integration**, security, and performance optimization
+- 📊 Strengthening knowledge in **data structures & algorithms**
+- 🔍 Building small experimental projects to apply everything hands-on
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahima-khatun28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahimaKhatun97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrahimakhatun281@gmail.com) 
