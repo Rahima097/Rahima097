@@ -4,9 +4,13 @@
 # 🙋‍♀️ Hi,I'm Rahima Khatun 
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&center=true&multiline=true&width=1000&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hi%2C+I'm+Rahima+Khatun%2C%F0%9F%92%BB+Full+Stack+Developer+%7C+MERN+Stack+%7C+Clean+Code+%26+Modern+UI+Enthusiast" alt="Typing SVG" />
+<p align="center" style="font-size:28px; font-weight:bold;">
+  🙋‍♀️ Hi, I'm Rahima Khatun
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&multiline=false&width=600&color=36BCF7&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+MERN+Stack+%7C+Clean+Code+%26+Modern+UI+Enthusiast" alt="Typing Animation" />
+</p
 
 
 
