@@ -4,16 +4,12 @@
 # 🙋‍♀️ Hi,I'm Rahima Khatun 
 💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 
-<p align="center" style="font-size: 36px; font-weight: 700; margin-bottom: 8px;">
+<p align="center" style="font-size: 48px; font-weight: bold; margin-bottom: 8px;">
   🙋‍♀️ Hi, I'm Rahima Khatun
 </p>
 
-<p align="center" style="font-size: 24px; color: #36BCF7; margin-top: 0; margin-bottom: 20px;">
-  Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Building+Modern+Web+Apps" alt="Typing Animation" />
+<p align="center" style="font-size: 24px; color: #0366d6;">
+  💻 Full Stack Developer | MERN Stack | Clean Code & Modern UI Enthusiast
 </p>
 
 
