@@ -25,15 +25,40 @@ I believe in **learning every day**, and I'm genuinely excited by the process of
 
 ## 🔭 Recent Projects
 
-### 🔹 [WhereIsIt](https://whereisit-lost-and-found-item.netlify.app/)
-A full-stack lost & found platform where users can report, search, and recover items. Built using **React, Tailwind CSS, Firebase Auth, Node.js, Express, and MongoDB** with JWT protection.
-
-### 🔹 [FindRoommate](https://find-roommate.netlify.app/)
-A room rental listing platform with an interest/like system and secure contact reveal feature. Built using **React 19, Firebase, Express.js, MongoDB**, and styled with **Tailwind CSS**.
-
-### 🔹 [Plumbio Fix](https://plumbio-fix.netlify.app/)
-A plumbing service website that allows users to book services, view details, and post reviews. Features **Firebase authentication**, dynamic routing, protected pages, and responsive design.
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://whereisit-lost-and-found-item.netlify.app/">
+        <img src="Images/whereisit.png" alt="WhereIsIt Project" width="250" />
+        <br />
+        <strong>🔹 WhereIsIt</strong>
+      </a>
+      <p>A full-stack lost & found platform where users can report, search, and recover items.<br/>
+      <em>Tech Stack:</em> <strong>React, Tailwind CSS, Firebase Auth, Node.js, Express, MongoDB, JWT</strong>
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://find-roommate.netlify.app/">
+        <img src="Images/findroommate.png" alt="FindRoommate Project" width="250" />
+        <br />
+        <strong>🔹 FindRoommate</strong>
+      </a>
+      <p>A room rental listing platform with an interest system and secure contact reveal.<br/>
+      <em>Tech Stack:</em> <strong>React 19, Firebase, Express.js, MongoDB, Tailwind CSS</strong>
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://plumbio-fix.netlify.app/">
+        <img src="Images/plumbio-fix.png" alt="Plumbio Fix Project" width="250" />
+        <br />
+        <strong>🔹 Plumbio Fix</strong>
+      </a>
+      <p>A plumbing service site with booking, service details, reviews, and protected routes.<br/>
+      <em>Tech Stack:</em> <strong>React, Tailwind CSS, Firebase, Dynamic Routing</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌱 What I'm Learning Now
@@ -50,20 +75,6 @@ I'm always exploring and experimenting with modern tools and technologies to sta
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahima-khatun28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahimaKhatun97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrahimakhatun281@gmail.com) 
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahima-khatun28/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/RahimaKhatun97">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:mrahimakhatun281@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ## 💻 Tech Stack
 
@@ -118,3 +129,9 @@ I'm always exploring and experimenting with modern tools and technologies to sta
   <br/>
   <span align="right" style="display: block; margin-top: 8px;">— Rahima Khatun</span>
 </p>
+
+### 🙏 Thank You for Visiting My Profile! ❤️
+
+I'm always open to **collaboration**, **remote job opportunities**, and **internships**.  
+If you’re working on something meaningful and think I could contribute — feel free to reach out.  
+Let’s build something great together! 🚀
